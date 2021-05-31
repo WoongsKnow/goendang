@@ -1,4 +1,4 @@
-# smashing-vuejs
+# test
 
 ## Project setup
 ```
